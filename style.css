@@ -1,0 +1,173 @@
+body {
+	width: 890px;
+	margin: 0 auto;
+	font: 12pt/1.5em times new roman, "times new roman";
+	background: #F0F8FF;
+}
+
+nav {
+display: block;
+}
+	
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #191970
+	border-radius: 20px;
+}
+	
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover:not (.active) {
+	background-color: #D3D3D3;
+}
+
+.active {
+	background-color: #4CAF50;
+}
+
+h1 {
+	font-size: 40px;
+	font-family: times new roman;
+	text-align: center;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+h2 {
+	font-size: 20px;
+	font-family: times new roman;
+	text-align: center;
+	color: #000000;
+}
+
+section {
+	float: center;
+	height: 500px;
+	width: 890px
+}
+
+#dhp-image {
+	float: center;
+	height: 400px;
+	width: 600px;
+}
+
+#dhp-owner {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#dhp-manager {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#dhp-staff1 {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#dhp-staff2 {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#dhp-catfood1 {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#dhp-catfood2 {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#dhp-cattoy1 {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#dhp-cattoy2 {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#dhp-dogap1 {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#dhp-dogap1 {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#dhp-dogfood1 {
+	float: left;
+	height: 200px;
+	width: 100px;
+}
+
+#dhp-dogfood2 {
+	float: left;
+	height: 200px;
+	width: 100px;
+}
+
+#dhp-fishfood1 {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#dhp-fishfood2 {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#dhp-fishtank1 {
+	float: left;
+	height: 250px;
+	width: 150px;
+}
+
+#dhp-fishtank2 {
+	float: left;
+	height: 250px;
+	width: 400px;
+}
+
+article {
+	float: center;
+	height: 500px;
+	width: 890px;
+p {
+	font-family: times new roman; 
+	font-size: 18px;
+	text-align: center
+	color: #000000;
+}
