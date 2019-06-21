@@ -2,7 +2,7 @@ body {
 	width: 890px;
 	margin: 0 auto;
 	font: 12pt/1.5em times new roman, "times new roman";
-	background: #F0F8FF;
+	background: #ee82ee;
 }
 
 nav {
@@ -14,7 +14,7 @@ ul {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #191970
+	background-color: #b4b4b4
 	border-radius: 20px;
 }
 	
