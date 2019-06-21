@@ -1,7 +1,7 @@
 body {
 	width: 890px;
 	margin: 0 auto;
-	font: 12pt/1.5em times new roman, "times new roman";
+	font: 16pt/1.5em times new roman, "times new roman";
 	background: #EE82EE;
 }
 
@@ -31,11 +31,11 @@ li a {
 }
 
 li a:hover:not (.active) {
-	background-color: #D3D3D3;
+	background-color: #0000FF;
 }
 
 .active {
-	background-color: #4CAF50;
+	background-color: #008080;
 }
 
 h1 {
